@@ -35,7 +35,7 @@ I am a passionate and detail-oriented Computer Science student at **Beni Suef Na
 ---
 
 ### 📫 Connect with Me
-**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir) [cite: 3] 
+**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir)  
 
 **Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com) 
 
