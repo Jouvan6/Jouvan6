@@ -35,8 +35,10 @@ I am a passionate and detail-oriented Computer Science student at **Beni Suef Na
 ---
 
 ### 📫 Connect with Me
-**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](www.linkedin.com/in/jouvana-gerges-samir) 
+**LinkedIn:** [www.linkedin.com/in/jouvana-gerges-samir](www.linkedin.com/in/jouvana-gerges-samir) 
+
 **Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com) 
+
 **Location:** Maghaga, El Minya, Egypt 
 ---
 
