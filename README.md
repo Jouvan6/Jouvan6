@@ -44,3 +44,4 @@ I am a passionate and detail-oriented Computer Science student at **Beni Suef Na
 
 ### 📄 Curriculum Vitae
 * **Download/View my full CV:** [Click Here to View PDF]([رابط_جوجل_درايف_هنا](https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
+[Download my CV]([./CV_Jouvana_Gerges.pdf](https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
