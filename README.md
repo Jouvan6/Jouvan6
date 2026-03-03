@@ -2,35 +2,35 @@
 
 **Full Stack .NET Developer | Computer Science Student | UI/UX & Frontend Enthusiast**
 
-I am a passionate and detail-oriented Computer Science student at **Beni Suef National University** (Class of 2026)[cite: 5, 9, 10]. [cite_start]I specialize in building scalable web applications within the **.NET ecosystem**, with a deep love for creating aesthetically pleasing and user-centric **Frontend** experiences[cite: 5, 6, 7].
+I am a passionate and detail-oriented Computer Science student at **Beni Suef National University** (Class of 2026). [cite_start]I specialize in building scalable web applications within the **.NET ecosystem**, with a deep love for creating aesthetically pleasing and user-centric **Frontend** experiences.
 
 ---
 
 ### 🛠️ Technical Toolbox
-**Backend:** C#, .NET Core, ASP.NET Web API, OOP, C++, Python[cite: 40].
+**Backend:** C#, .NET Core, ASP.NET Web API, OOP, C++, Python.
 **Frontend (My Creative Space):**
-**Databases:** SQL Server & SQL[cite: 27, 40].
-**Tools:** Git & GitHub, Microsoft Office[cite: 41].
+**Databases:** SQL Server & SQL.
+**Tools:** Git & GitHub, Microsoft Office.
 
 ---
 
 ### 🚀 Professional Experience
-* **Full Stack PHP Trainee | [cite_start]NTI:** Intensive training in full-stack development using PHP and modern web technologies[cite: 14, 16].
-* **Web Development Trainee | [cite_start]IT Sharks:** Focused on practical HTML and front-end development[cite: 17, 19].
-* **Corporate Intern | [cite_start]CIB National Bank:** Developed professional soft skills including time management and corporate communication[cite: 21, 23].
+* **Full Stack PHP Trainee | [cite_start]NTI:** Intensive training in full-stack development using PHP and modern web technologies.
+* **Web Development Trainee | [cite_start]IT Sharks:** Focused on practical HTML and front-end development.
+* **Corporate Intern | [cite_start]CIB National Bank:** Developed professional soft skills including time management and corporate communication.
 
 ---
 
 ### 📂 Featured Projects
-**Full Stack E-commerce (Warehouse Management):** A comprehensive PHP-based system for inventory tracking, sales, and data management[cite: 25, 26, 27].
-**Frontend Web Portfolio:** A showcase of responsive web designs and interactive interfaces built during my training[cite: 28, 29].
+**Full Stack E-commerce (Warehouse Management):** A comprehensive PHP-based system for inventory tracking, sales, and data management.
+**Frontend Web Portfolio:** A showcase of responsive web designs and interactive interfaces built during my training.
 
 ---
 
 ### ✨ Personal Highlights
-**Creative Problem Solver:** I enjoy bridging the gap between complex logic and creative design[cite: 42].
-**Resilient:** Known for working effectively under pressure and meeting tight deadlines[cite: 38].
-**Community Minded:** Participated in university technical activities and the university choir[cite: 36, 37].
+**Creative Problem Solver:** I enjoy bridging the gap between complex logic and creative design.
+**Resilient:** Known for working effectively under pressure and meeting tight deadlines.
+**Community Minded:** Participated in university technical activities and the university choir.
 
 ---
 
